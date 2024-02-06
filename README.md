@@ -1,16 +1,27 @@
-### Hi there 👋
+# Olá, eu sou Victor! 👋
 
-<!--
-**victor-rva/victor-rva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com quase dois anos de experiência como Assistente Administrativo de TI, tendo envolvimento principalmente na parte de Redes. Estou animado para dar o próximo passo em minha jornada profissional, mergulhando no fascinante mundo da programação e desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Habilidades
+
+- 🐍 **Python:** Minha linguagem de programação favorita, com a qual tenho maior familiaridade. Estudei principalmente a biblioteca OpenCV, usada para visão computacional.
+- 💻 **Outras Linguagens:** Também tenho conhecimento em PHP e JavaScript, ampliando meu conjunto de habilidades.
+- 🌐 **Desenvolvimento Web:** Conhecimento em HTML5 e CSS3 para criação de interfaces atraentes.
+- 🛢️ **Bancos de Dados:** Experiência com SQL, principalmente com MySQL e Oracle para armazenamento eficiente de dados.
+- 🔄 **Metodologias Ágeis:** Familiaridade com práticas ágeis para gerenciamento eficiente de projetos. Tive contato principalmete com Scrum e OKR.
+- 🎨 **UX Design:** Conhecimento em design de experiência do usuário para criar soluções intuitivas.
+- 🌱 **Estudos Atuais:** Atualmente tenho estudado e práticado a linguagem de programação GoLang.
+
+## Projetos em Destaque
+
+Dê uma olhada nos meus projetos no [GitHub](https://github.com/victor-rva). Aqui estão alguns destaques:
+
+1. [Projeto Python](https://github.com/victor-rva/Dashboard_Python): Fazendo uma dashboard com python. O dashboard mostra os dados de uma rede de varejo: Faturamento por mês e por unidade; Tipo de produto mais vendido; Desempenho das formas de pagamento; Avaliação média por filial..
+2. [Projeto Go](https://github.com/victor-rva/Projeto01_GO): Primeiro projeto utilizando a linguagem Go. Ainda em andamento da construção do projeto.
+
+## Onde me Encontrar
+
+- [LinkedIn](https://www.linkedin.com/in/victor-vecchio-3b2153209/)
+
