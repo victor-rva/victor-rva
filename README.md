@@ -16,7 +16,7 @@ Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com quase d
 
 ## Projetos em Destaque
 
-Dê uma olhada nos meus projetos no [GitHub](https://github.com/victor-rva). Aqui estão alguns destaques:
+Dê uma olhada nos meus projetos no [GitHub](https://github.com/victor-rva?tab=repositories). Aqui estão alguns destaques:
 
 1. [Projeto Python](https://github.com/victor-rva/Dashboard_Python): Fazendo uma dashboard com python. O dashboard mostra os dados de uma rede de varejo: Faturamento por mês e por unidade; Tipo de produto mais vendido; Desempenho das formas de pagamento; Avaliação média por filial.
 2. [Projeto Go](https://github.com/victor-rva/Projeto01_GO): Primeiro projeto utilizando a linguagem Go. Ainda em andamento da construção do projeto.
