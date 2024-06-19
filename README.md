@@ -2,12 +2,12 @@
 
 ## Sobre Mim
 
-Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com quase dois anos de experiência como Assistente Administrativo de TI, tendo envolvimento principalmente na parte de Redes. Estou animado para dar o próximo passo em minha jornada profissional, mergulhando no fascinante mundo da programação e desenvolvimento.
+Sou estudante de Análise e Desenvolvimento de Sisteams, atualmente atuo com desenvolvimento de software, principalmente com foco em automatização.
 
 ## Minhas Habilidades
 
-- 🐍 **Python:** Minha linguagem de programação favorita, com a qual tenho maior familiaridade. Estudei principalmente a biblioteca OpenCV, usada para visão computacional.
-- 💻 **Outras Linguagens:** Também tenho conhecimento em PHP e JavaScript, ampliando meu conjunto de habilidades.
+- 🐍 **Python:**  Linguagem de programação que possuo maior domínio. Recentemente estudei a biblioteca OpenCV, usada para visão computacional.
+- 💻 **Outras Linguagens:** Tenho conhecimento em JavaScript e tive expêriencia com criação de API RESTful utilizando Node.js, também já tive contato com PHP e GoLang em projetos e estudos pessoais, ampliando meu conjunto de habilidades. 
 - 🌐 **Desenvolvimento Web:** Conhecimento em HTML5 e CSS3 para criação de interfaces atraentes.
 - 🛢️ **Bancos de Dados:** Experiência com SQL, principalmente com MySQL e Oracle para armazenamento eficiente de dados.
 - 🔄 **Metodologias Ágeis:** Familiaridade com práticas ágeis para gerenciamento eficiente de projetos. Tive contato principalmete com Scrum e OKR.
