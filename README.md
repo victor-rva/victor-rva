@@ -2,7 +2,7 @@
 
 ## Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sisteams, atualmente atuo com desenvolvimento de software, principalmente com foco em automatização.
+Sou estudante de Análise e Desenvolvimento de Sisteams, atualmente atuo com desenvolvimento de software, principalmente com foco em automações.
 
 ## Minhas Habilidades
 
