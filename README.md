@@ -11,7 +11,7 @@ RESTful e integração com banco de dado.
 ## Meus Conhecimentos
 ● **Back-End:** Python, Flask, Node.js e GoLang;
 
-● **Front-End:** HTML, CSS E JavaScript;
+● **Front-End:** HTML, CSS e JavaScript;
 
 ● **Cloud:** AWS;
 
