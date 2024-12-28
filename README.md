@@ -6,7 +6,7 @@ Sou Desenvolvedor de Software, atualmente trabalho na assessoria de investimento
 da rede XP e estou cursando Análise e Desenvolvimento de Sistemas.
 
 Possuo experiência com automação de processos, criação de sistemas, criação de APIs
-RESTful e integração com banco de dado.
+RESTful e integração com banco de dados.
 
 ## Meus Conhecimentos
 ● **Back-End:** Python, Flask, Node.js e GoLang;
