@@ -2,10 +2,7 @@
 
 ## Sobre Mim
 
-Sou Desenvolvedor de Software, atualmente trabalho na assessoria de investimentos Top 1
-da rede XP e estou cursando Análise e Desenvolvimento de Sistemas.
-
-Possuo experiência com automação de processos, criação de sistemas, criação de APIs
+Sou Desenvolvedor de Software,possuo experiência com automação de processos, criação de sistemas, criação de APIs
 RESTful e integração com banco de dados.
 
 ## Meus Conhecimentos
