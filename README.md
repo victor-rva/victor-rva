@@ -2,8 +2,9 @@
 
 ## Sobre Mim
 
-Sou Desenvolvedor de Software,possuo experiência com automação de processos, criação de sistemas, criação de APIs
-RESTful e integração com banco de dados.
+Sou Desenvolvedor de Software e possuo experiência com automação de processos, criação de sistemas, criação de APIs RESTful e integração de sistemas. Principalmente com Python e MySQL, Cloud AWS com os recursos Lambda, EC2 e S3.
+
+Meu foco é em back-end, onde também realizei projetos utilizando Java, Node.JS e Flask. Em projetos onde precisei fazer o front-end utilizei HTML, CSS, Tailwind CSS e JavaScript.
 
 ## Meus Conhecimentos
 ● **Back-End:** Python, Flask, Node.js e GoLang;
