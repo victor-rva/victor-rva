@@ -5,7 +5,7 @@
 Desenvolvedor de Software com experiência em back-end, automação de processos e arquitetura de sistemas. Atualmente atuando em modelo outsourcing na Nexus, com foco em Python, FastAPI, MySQL e recursos avançados da Cloud AWS (Lambda, EC2, RDS e S3), desenvolvendo APIs RESTful, backend e frontend de aplicações, integração de sistemas, agentes inteligentes utilizando a arquitetura RAG.
 
 ## Meus Conhecimentos
-● **Back-End:** Python(Flask, FastAPI) Java e GoLang;
+● **Back-End:** Python(Flask, FastAPI), Java e GoLang;
 
 ● **Front-End:** HTML, CSS e JavaScript;
 
