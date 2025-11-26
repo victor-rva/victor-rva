@@ -3,7 +3,9 @@
 ## Sobre Mim
 
 Experiência em desenvolvimento de software, modelagem e construção de bancos de dados. Atualmente, trabalho no modelo outsourcing na Nexus, com foco em back-ends e front-ends de aplicações, integração de sistemas e agentes inteligentes.
+
 Desenvolvi softwares, automação e ferramentas para uso interno da empresa, APIs RESTful e Lambdas na AWS. Também integrei APIs com serviços de terceiros, além de modelagem e construção de bancos de dados.
+
 Desenvolvi projetos utilizando IA, como agentes inteligentes para interação com o cliente na forma de chatbots, usando LangChain e LangGraph com arquitetura RAG.
 
 ## Projetos em Destaque
