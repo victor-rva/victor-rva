@@ -2,25 +2,9 @@
 
 ## Sobre Mim
 
-Desenvolvedor de Software com experiência em back-end, automação de processos e arquitetura de sistemas. Atualmente atuando em modelo outsourcing na Nexus, com foco em Python, FastAPI, MySQL e recursos avançados da Cloud AWS (Lambda, EC2, RDS e S3), desenvolvendo APIs RESTful, backend e frontend de aplicações, integração de sistemas, agentes inteligentes utilizando a arquitetura RAG.
-
-## Meus Conhecimentos
-● **Back-End:** Python(Flask, FastAPI), Java e GoLang;
-
-● **Front-End:** HTML, CSS e JavaScript;
-
-● **Cloud:** AWS;
-
-● **Banco de Dados:** SQL;
-
-● **DevOps & Outros:** Docker, Git/GitHub;
-
-● **IA:** RAG, LangChain, LangGraph;
-
-● **Testes de Software:** Funcional, Mutação, Unitário, Integração, Sistema, Aceitação;
-
-● **Metodologias Ágeis:** Familiaridade com práticas ágeis para gerenciamento eficiente de projetos. Tive contato principalmete com Scrum, Kanban e OKR.
-
+Experiência em desenvolvimento de software, modelagem e construção de bancos de dados. Atualmente, trabalho no modelo outsourcing na Nexus, com foco em back-ends e front-ends de aplicações, integração de sistemas e agentes inteligentes.
+Desenvolvi softwares, automação e ferramentas para uso interno da empresa, APIs RESTful e Lambdas na AWS. Também integrei APIs com serviços de terceiros, além de modelagem e construção de bancos de dados.
+Desenvolvi projetos utilizando IA, como agentes inteligentes para interação com o cliente na forma de chatbots, usando LangChain e LangGraph com arquitetura RAG.
 
 ## Projetos em Destaque
 
