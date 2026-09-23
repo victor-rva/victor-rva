@@ -1,20 +1,62 @@
-# Olá, eu sou o Victor! 👋
+# Victor Vecchio
 
-## Sobre Mim
+**Software Engineer | Backend | Cloud | AI/GenAI**
 
-Desenvolvedor de Software com experiência em desenvolvimento full-stack com foco no back-end, engenharia de software, arquitetura de sistemas, cloud computing (AWS) e integração de sistemas. Atuação prática com APIs REST, bancos de dados SQL e NoSQL, automação de processos, ETL e arquitetura serverless. Experiência em projetos para diversos setores, com foco em escalabilidade, segurança e boas práticas.
+I'm a Software Engineer focused on building backend systems, cloud-based applications, and AI-powered solutions.
 
-## Projetos em Destaque
+My professional experience includes backend development, API integration, AWS serverless architectures, data pipelines, automation, and database systems. I also have hands-on experience building Generative AI applications using LLMs, RAG, AI agents, and MCP.
 
-Dê uma olhada nos meus projetos no [GitHub](https://github.com/victor-rva?tab=repositories). Aqui estão alguns destaques:
+## Focus
 
-1. [Assistente de Viagem](https://github.com/victor-rva/assistente_viagem): Um chatbot de console interativo construído com Python e a biblioteca LangChain. Este assistente foi projetado para ajudar usuários a planejar suas viagens, oferecendo sugestões de destinos, roteiros e dicas úteis, tudo isso enquanto mantém o contexto da conversa para uma interação mais fluida e personalizada.
-2. [Servidor MCP](https://github.com/victor-rva/servidor_mcp): Este projeto demonstra a implementação de uma arquitetura Model Context Protocol (MCP) pura para um agente de IA. O agente, construído com LangGraph, é completamente desacoplado de suas ferramentas, que são expostas por um servidor web FastAPI. O servidor, por sua vez, é o único responsável por interagir com um banco de dados SQLite local.
+* Backend Engineering
+* Python & API Development
+* AWS & Serverless Architecture
+* Data Engineering & ETL
+* Generative AI & LLM Applications
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & MCP
+* Software Architecture
 
-3. [Gerenciador de estoque](https://github.com/victor-rva/sistema_de_estoque): Este projeto demonstra a implementação de um sistema de gerenciamento de estoque. Possuindo uma interface interativa onde é possível executar as ações. A aplicação possui controle de concorrência utilizando a prática de lock pessimista no banco de dados.
+## Technologies
 
-## Onde me Encontrar
+**Languages:** Python, Java, JavaScript, SQL
 
-- [LinkedIn](https://www.linkedin.com/in/victor-vecchio-3b2153209/)
+**Backend:** FastAPI, Flask, REST APIs
 
+**Cloud:** AWS Lambda, API Gateway, EC2, RDS/Aurora, S3, DynamoDB, CloudWatch
 
+**Databases:** MySQL, PostgreSQL, Oracle, DynamoDB, Redis
+
+**AI:** LLMs, RAG, Embeddings, Semantic Search, AI Agents, LangGraph, MCP
+
+**Software Engineering:** Git, GitHub, GitLab, Docker, Software Architecture
+
+## Featured Projects
+
+### [SFood — AI Assistant](https://github.com/victor-rva/assistente_sfood)
+
+Generative AI application using **RAG**, vector search, and LLMs to provide contextual data analysis and intelligent responses.
+
+### [MCP AI Agent](https://github.com/victor-rva/servidor_mcp)
+
+AI agent architecture using **LangGraph, FastAPI, and Model Context Protocol (MCP)**, with separation between agent reasoning and tool execution.
+
+### [Travel Assistant](https://github.com/victor-rva/assistente_viagem)
+
+Generative AI travel assistant built with **Python and LangChain**, maintaining conversation history and context throughout the interaction.
+
+### [Inventory Management System](https://github.com/victor-rva/sistema_de_estoque)
+
+Backend application built with **Flask, MySQL, HTML, CSS, and JavaScript**, including RESTful API development and pessimistic locking for concurrency control.
+
+### [E-commerce Microservices](https://github.com/victor-rva/ecommerce_microservice)
+
+Microservices architecture demonstration built with **Node.js and TypeScript**, focused on communication between independent services.
+
+### [Order Processor](https://github.com/victor-rva/processador_de_pedidos)
+
+Event-driven backend service built with **Go and RabbitMQ**, applying **Clean Architecture** and asynchronous message processing.
+
+## Currently
+
+I'm deepening my Software Engineering background while specializing in the design and development of AI systems, with a focus on building reliable, scalable, and production-oriented AI applications.
